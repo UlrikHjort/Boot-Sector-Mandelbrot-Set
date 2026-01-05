@@ -1,6 +1,6 @@
 # Bootable Mandelbrot (x86 Real Mode)
 
-This project is a **512-byte boot sector program** that renders the **Mandelbrot set** directly from the BIOS, without an operating system.
+This project is a **512-byte boot sector program** that renders the **[Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)** directly from the BIOS, without an operating system.
 
 When booted, it switches the machine into **VGA mode 13h (320×200, 256 colors)** and draws the Mandelbrot fractal using **16-bit real-mode x86 assembly** and **fixed-point arithmetic**.
 

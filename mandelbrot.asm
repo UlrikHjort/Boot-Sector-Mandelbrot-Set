@@ -1,7 +1,8 @@
 ; *************************************************************************** 
 ;                  Boot Sector Mandelbrot set  
 ;
-;           Copyright (C) 2026 By Ulrik Hørlyk Hjort
+;            Copyright (C) 2026 By Ulrik Hørlyk Hjort
+;
 ; Permission is hereby granted, free of charge, to any person obtaining
 ; a copy of this software and associated documentation files (the
 ; "Software"), to deal in the Software without restriction, including
